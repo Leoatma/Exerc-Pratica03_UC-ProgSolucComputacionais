@@ -35,4 +35,5 @@
     8. Faça um programa que preencha com zeros todas as posições de
     um vetor de tamanho 50
 
-    9. Faça um programa que preencha com ze
+    9. Faça um programa que preencha com zeros todas as posições de
+    uma matriz com 10 linha e 10 colunas
