@@ -1,6 +1,6 @@
 # Exercícios de Estruturas de Decisão – WHILE / DO WHILE / FOR + Estruturas Homogêneas
 
-## Tais exercícios fazem parte de uma lista com 09 questões de reforço para a UC de Programação de Sol. Computacionais. 
+##### Tais exercícios fazem parte de uma lista com 09 questões de reforço para a UC de Programação de Sol. Computacionais. 
 
     1) Faça um programa que imprima todos os números pares de 1 a 100
 
